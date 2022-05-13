@@ -7,7 +7,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.http.GET
 import retrofit2.http.Query
 
-
+ // base url 
 const val base_url = "https://newsapi.org/"
 const val API_Key = "f53c2554d4524da1ae9f460f7e7926e3"
 
